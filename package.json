@@ -1,0 +1,74 @@
+{
+  "_from": "@types/matter-js",
+  "_id": "@types/matter-js@0.18.1",
+  "_inBundle": false,
+  "_integrity": "sha512-Qck+zYiE9GI7vMpeEzMC4JGk+/erTF0XVwOrpwvIGaBn9NPMXNhd/W5EaPkz+CpT+uO9A4C1bHbU+A4j/QzG6A==",
+  "_location": "/@types/matter-js",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/matter-js",
+    "name": "@types/matter-js",
+    "escapedName": "@types%2fmatter-js",
+    "scope": "@types",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/matter-js/-/matter-js-0.18.1.tgz",
+  "_shasum": "9c2340f0f10d0eb630722718828b236c9d10a3bf",
+  "_spec": "@types/matter-js",
+  "_where": "C:\\Users\\computer\\HeadSoccer-Server",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Ivane Gegia",
+      "url": "https://twitter.com/ivanegegia"
+    },
+    {
+      "name": "David Asmuth",
+      "url": "https://github.com/piranha771"
+    },
+    {
+      "name": "Piotr Pietrzak",
+      "url": "https://github.com/hasparus"
+    },
+    {
+      "name": "Dale Whinham",
+      "url": "https://github.com/dwhinham"
+    },
+    {
+      "name": "slikts",
+      "url": "https://github.com/slikts"
+    },
+    {
+      "name": "Steven Snoeijen",
+      "url": "https://github.com/stevensnoeijen"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for Matter.js -",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/matter-js",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/matter-js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/matter-js"
+  },
+  "scripts": {},
+  "typeScriptVersion": "4.0",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "0bd4d6c2d8ec3464a949dbddd02d7672eac6b7ee5b756d8b32863ef1a602fac7",
+  "version": "0.18.1"
+}
